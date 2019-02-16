@@ -1,0 +1,82 @@
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe.config
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.pdb
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.csprojResolveAssemblyReference.cache
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\App.g.cs
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager_MarkupCompile.cache
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.g.resources
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.exe
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.pdb
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\App.baml
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\MahApps.Metro.dll
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\System.Windows.Interactivity.dll
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\MahApps.Metro.xml
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.baml
+c:\users\nikola\documents\visual studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.g.cs
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\FolderBrowser.baml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\FolderBrowser.g.cs
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager_MarkupCompile.lref
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\Resources\Icons.baml
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\Resources\Icons.g.cs
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe.manifest
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.application
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.exe.manifest
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.application
+G:\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe.config
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.exe
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.pdb
+G:\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe.manifest
+G:\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.application
+G:\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe
+G:\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.pdb
+G:\zemanFileManager\zemanFileManager\bin\Debug\MahApps.Metro.dll
+G:\zemanFileManager\zemanFileManager\bin\Debug\System.Windows.Interactivity.dll
+G:\zemanFileManager\zemanFileManager\bin\Debug\MahApps.Metro.xml
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.csprojResolveAssemblyReference.cache
+G:\zemanFileManager\zemanFileManager\obj\Debug\Resources\Icons.baml
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.baml
+G:\zemanFileManager\zemanFileManager\obj\Debug\App.baml
+G:\zemanFileManager\zemanFileManager\obj\Debug\FolderBrowser.g.cs
+G:\zemanFileManager\zemanFileManager\obj\Debug\Resources\Icons.g.cs
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.g.cs
+G:\zemanFileManager\zemanFileManager\obj\Debug\App.g.cs
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager_MarkupCompile.cache
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager_MarkupCompile.lref
+G:\zemanFileManager\zemanFileManager\obj\Debug\FolderBrowser.baml
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.g.resources
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.Properties.Resources.resources
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.csproj.GenerateResource.Cache
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.exe.manifest
+G:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.application
+F:\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe.config
+F:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.exe
+F:\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.pdb
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe.config
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.exe
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.pdb
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.csprojResolveAssemblyReference.cache
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\Resources\Icons.baml
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.baml
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\App.baml
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\FolderBrowser.g.cs
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\Resources\Icons.g.cs
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.g.cs
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\App.g.cs
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager_MarkupCompile.cache
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager_MarkupCompile.lref
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\FolderBrowser.baml
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.g.resources
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.Properties.Resources.resources
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.csproj.GenerateResource.Cache
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe.manifest
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.application
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.exe
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\zemanFileManager.pdb
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\MahApps.Metro.dll
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\System.Windows.Interactivity.dll
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\bin\Debug\MahApps.Metro.xml
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.exe.manifest
+D:\REINSTALL 06-2015\usb crni\zemanFileManager\zemanFileManager\obj\Debug\zemanFileManager.application

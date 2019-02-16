@@ -1,0 +1,207 @@
+﻿<Controls:MetroWindow x:Class="zemanFileManager.ZemanFileManager"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        GlowBrush="{DynamicResource AccentColorBrush}"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Title="ZemanFileManager" Height="600" Width="850" MinHeight="500" MinWidth="750" Icon="Slike/floppySlika.png"
+        >
+
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel Grid.Column="0" Grid.ColumnSpan="8" Grid.Row="5" >
+            <StatusBar DockPanel.Dock="Bottom" Name="statusBar" Background="DeepSkyBlue"  >
+                <StatusBarItem>
+                    <TextBlock Name="info" />
+                </StatusBarItem>
+            </StatusBar>
+
+        </DockPanel>
+
+
+        <Button Name="lijeviButton" Margin="2" Grid.Column="0" Grid.Row="1" Click="lijeviButton_Click" Style="{StaticResource AccentedSquareButtonStyle}" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\openFolderSlika.png" Width="20" />
+                <TextBlock Text="  Otvori mapu" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+        
+        <Button Grid.Row="0" Grid.Column="0" Name="lijeviRenameButton" Margin="2" Style="{StaticResource AccentedSquareButtonStyle}" Click="lijeviRenameButton_Click"  >
+            <TextBlock Text="  Preimenuj" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        </Button>
+        
+        <TextBox  Name="lijeviRenameTextBox" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2"  />
+
+
+
+        <Button Grid.Row="0" Grid.Column="7" Name="desniRenameButton" Margin="2" Style="{StaticResource AccentedSquareButtonStyle}" Click="desniRenameButton_Click"  >
+            <TextBlock Text="  Preimenuj" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        </Button>
+
+        <TextBox  Name="desniRenameTextBox" Grid.Column="5" Grid.Row="0" Grid.ColumnSpan="2"  />
+
+
+
+
+        <Button Grid.Row="1" Grid.Column="1" Name="lijeviKopirajButton" ToolTip="Kopira selektiranu datoteku" Margin="2" Click="lijeviKopirajButton_Click" Style="{StaticResource AccentedSquareButtonStyle}">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\copySlika.png" Width="20" />
+                <TextBlock Text="  Kopiraj" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="2" Name="lijeviMoveButton" ToolTip="Pomiče selektiranu datoteku" Margin="2" Click="lijeviMoveButton_Click" Style="{StaticResource AccentedSquareButtonStyle}"  >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\moveSlika.png" Width="18" />
+                <TextBlock Text="  Pomakni" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="3" Name="lijeviDeleteButton" ToolTip="Briše selektiranu datoteku" Margin="2" Click="lijeviDeleteButton_Click" Style="{StaticResource AccentedSquareButtonStyle}" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\removeSlika.png" Width="20" />
+                <TextBlock Text="  Izbriši" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+
+
+        <Button Name="desniButton"  Margin="2" Grid.Column="8" Grid.Row="1" Click="desniButton_Click" Style="{StaticResource AccentedSquareButtonStyle}" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\openFolderSlika.png" Width="20" />
+                <TextBlock Text="  Otvori mapu" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="4" Name="desniKopirajButton" ToolTip="Kopira selektiranu datoteku" Margin="2" Click="desniKopirajButton_Click" Style="{StaticResource AccentedSquareButtonStyle}" >
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\copySlika.png" Width="20" />
+                <TextBlock Text="  Kopiraj" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+
+        <Button Grid.Row="1" Grid.Column="5" Name="desniMoveButton" ToolTip="Pomiče selektiranu datoteku"  Margin="2" Style="{StaticResource AccentedSquareButtonStyle}" Click="desniMoveButton_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\moveSlika.png" Width="18" />
+                <TextBlock Text="  Pomakni" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+        <Button Grid.Row="1" Grid.Column="6" Name="desniDeleteButton" ToolTip="Briše selektiranu datoteku" Margin="2" Style="{StaticResource AccentedSquareButtonStyle}" Click="desniDeleteButton_Click">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="Slike\removeSlika.png" Width="20" />
+                <TextBlock Text="  Izbriši" HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </StackPanel>
+        </Button>
+
+        <ProgressBar Name="lijeviDiskProgressBar" Grid.Row="2" Grid.Column="0" Height="Auto" Width="Auto"     />
+        <ProgressBar Name="desniDiskProgressBar" Grid.Row="2" Grid.Column="7" Height="Auto" Width="Auto"    />
+        <!-- FlowDirection="RightToLeft" -->
+
+        <Label Name="lijevaVelicinaDiskaLabel" Grid.Column="0" Grid.Row="2" ToolTip="Veličina slobodnog prostora / Veličina cijelog diska" HorizontalContentAlignment="Center"  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" />
+        <Label Name="desnaVelicinaDiskaLabel"  Grid.Column="8" Grid.Row="2" ToolTip="Veličina slobodnog prostora / Veličina cijelog diska" HorizontalContentAlignment="Center"  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" />
+
+
+
+
+        <ListView Name="lijeviListView" AlternationCount="2"  Grid.Column="0" 
+                  Grid.ColumnSpan="4" Margin="2,5,4,5" Background="#FFE8F4FF" BorderBrush="Black" BorderThickness="1"
+                  Grid.Row="3" Grid.RowSpan="1" SelectionChanged="lijeviListView_SelectionChanged"
+                  ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionMode="Single"
+                  
+                  >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="350" Header="Ime" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Width="140" Header="Vrijeme kreiranja" DisplayMemberBinding="{Binding CreationTime}" />
+                    <GridViewColumn Width="85" Header="Ekstenzija"  DisplayMemberBinding="{Binding  Extension}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+
+        <ListView Name="desniListView"  AlternationCount="2" Grid.Column="4" Grid.ColumnSpan="4" Margin="4,5,2,5"
+                  Background="#FFE8F4FF" BorderBrush="Black" BorderThickness="1" Grid.Row="3" Grid.RowSpan="1"
+                  ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible" SelectionChanged="desniListView_SelectionChanged"
+                  SelectionMode="Single" >
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="350" Header="Ime" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Width="140" Header="Vrijeme kreiranja" DisplayMemberBinding="{Binding CreationTime}" />
+                    <GridViewColumn Width="85" Header="Ekstenzija"  DisplayMemberBinding="{Binding  Extension}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+
+
+        <TextBox Name="lijeviPathTextBox" Margin="0,0,4,0" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3"  IsEnabled="False"  />
+        <TextBox Name="desniPathTextBox" Margin="0,0,2,0" Grid.Column="4" Grid.Row="2" Grid.ColumnSpan="3" IsEnabled="False" />
+
+
+
+
+        <!-- informacije o selektiranoj -->
+        <!-- LIJEVI DIO-->
+        <GroupBox Grid.Column="0" Grid.Row="4" Grid.ColumnSpan="4" Header="informacije o selektiranoj datoteci" Background="#CC6CD7FF"    >
+            <StackPanel Grid.Row="3" Grid.Column="0" Orientation="Horizontal" >
+                <Label Content="Veličina:" HorizontalAlignment="Center" ToolTip="Veličina odabrane datoteke" Name="veličinaDatotekeLabel1"  />
+                <TextBox Name="lijevaVeličinaTextBox" Margin="3" Width="80" IsEnabled="False" />
+
+                <Label Content="Moguće samo čitanje"  HorizontalAlignment="Center" ToolTip="Atributi odabrane datoteke" Name="IsReadOnlyLabel1" />
+                <CheckBox Name="lijeviIsReadOnlyCheckBox" IsEnabled="False" />
+
+                <Label Content="Atributi:" HorizontalAlignment="Center" ToolTip="Atributi odabrane datoteke" Name="AtributiDatotekeLabel1"  />
+                <TextBox Name="lijeviAtributiDatotekeTextBox" Margin="3" IsEnabled="False" />
+
+
+
+            </StackPanel>
+        </GroupBox>
+
+
+
+
+        <!-- DESNI DIO-->
+        <GroupBox Grid.Column="4" Grid.Row="4" Grid.ColumnSpan="4" Header="informacije o selektiranoj datoteci"  Background="#CC6CD7FF"  >
+            <StackPanel Grid.Row="3" Grid.Column="0" Orientation="Horizontal" >
+                <Label Content="Veličina:" HorizontalAlignment="Center" ToolTip="Veličina odabrane datoteke" Name="veličinaDatotekeLabel2"  />
+                <TextBox Name="desniVeličinaTextBox" Margin="3" Width="80" IsEnabled="False" />
+
+                <Label Content="Moguće samo čitanje"  HorizontalAlignment="Center" ToolTip="Atributi odabrane datoteke" Name="IsReadOnlyLabel2" />
+                <CheckBox Name="desniIsReadOnlyCheckBox" IsEnabled="False" />
+
+                <Label Content="Atributi:" HorizontalAlignment="Center" ToolTip="Atributi odabrane datoteke" Name="AtributiDatotekeLabel2"  />
+                <TextBox Name="desniAtributiDatotekeTextBox" Margin="3" IsEnabled="False" />
+            </StackPanel>
+        </GroupBox>
+
+
+
+    </Grid>
+</Controls:MetroWindow>

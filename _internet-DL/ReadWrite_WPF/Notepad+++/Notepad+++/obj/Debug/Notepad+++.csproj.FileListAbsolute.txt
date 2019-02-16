@@ -1,0 +1,16 @@
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\bin\Debug\Notepad+++.exe.config
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\bin\Debug\Notepad+++.exe
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\bin\Debug\Notepad+++.pdb
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\Notepad+++.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\MainWindow.baml
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\MainWindow.g.cs
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\App.g.cs
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\Notepad+++_MarkupCompile.cache
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\Notepad+++.g.resources
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\Notepad___.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\Notepad+++.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\Notepad+++.exe
+c:\users\student\documents\visual studio 2013\Projects\Notepad+++\Notepad+++\obj\Debug\Notepad+++.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\ReadWrite_WPF\Notepad+++\Notepad+++\bin\Debug\Notepad+++.exe.config
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\ReadWrite_WPF\Notepad+++\Notepad+++\obj\Debug\Notepad+++.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\ReadWrite_WPF\Notepad+++\Notepad+++\obj\Debug\Notepad+++.pdb

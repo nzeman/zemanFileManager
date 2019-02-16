@@ -1,0 +1,61 @@
+﻿<Controls:MetroWindow x:Class="zemanFileManager.FolderBrowser"
+    xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:zemanFileManager" 
+    GlowBrush="{DynamicResource AccentColorBrush}"
+    Title="FolderBrowser" Height="800" Width="600" MinWidth="600" MinHeight="800" Loaded="FolderBrowser_Loaded" WindowStartupLocation="CenterScreen" Icon="Slike/floppySlika.png">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="750*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="60*"/>
+            <ColumnDefinition Width="190*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button Grid.Row="1" Grid.Column="0" Name="obrišiDirektorijButton" Margin="2" Style="{StaticResource AccentedSquareButtonStyle}" Click="obrišiDirektorijButton_Click"   >
+            <TextBlock Text="  Obriši direktorij" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        </Button>
+
+        <Button Grid.Row="1" Grid.Column="1" Name="preimenovanjeDirektorijaButton" Margin="2" Style="{StaticResource AccentedSquareButtonStyle}" Click="preimenovanjeDirektorija_Click"   >
+            <TextBlock Text="  Preimenuj direktorij" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        </Button>
+        
+        <TextBox Grid.Column="3" Grid.Row="1" Margin="2" Name="preimenovanjeTextBox" >
+            
+        </TextBox>
+
+
+        <TreeView x:Name="foldersItem" SelectedItemChanged="foldersItem_SelectedItemChanged" Width="Auto" Background="#FFFFFFFF" BorderBrush="#FFFFFFFF" Foreground="#FFFFFFFF" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" Grid.RowSpan="2">
+            <TreeView.Resources>
+                <Style TargetType="{x:Type TreeViewItem}">
+                    <Setter Property="HeaderTemplate">
+                        <Setter.Value>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <Image Name="img"  Width="20" Height="20" Stretch="Fill" 
+                                       Source="{Binding 
+                                       RelativeSource={RelativeSource 
+                                       Mode=FindAncestor, 
+                                       AncestorType={x:Type TreeViewItem}}, 
+                                       Path=Header, 
+                                       Converter={x:Static local:HeaderToImageConverter.Instance}}"       
+                                       />
+                                    <TextBlock Text="{Binding}" Margin="5,0" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TreeView.Resources>
+        </TreeView>
+        
+        <Button Content="Potvrdi" Name="okButton" Margin="5" Click="okButton_Click"  />
+        <TextBox Name="pathDirektorija" Grid.Column="1" Grid.ColumnSpan="2"  Margin="5" IsEnabled="False"  />
+        
+    </Grid>
+</Controls:MetroWindow>

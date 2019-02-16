@@ -1,0 +1,18 @@
+C:\Lab\Lab3\FileInformation1\FileInformation1\bin\Debug\FileInformation1.exe
+C:\Lab\Lab3\FileInformation1\FileInformation1\bin\Debug\FileInformation1.pdb
+C:\Lab\Lab3\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.csprojResolveAssemblyReference.cache
+C:\Lab\Lab3\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.Form1.resources
+C:\Lab\Lab3\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.Properties.Resources.resources
+C:\Lab\Lab3\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.csproj.GenerateResource.Cache
+C:\Lab\Lab3\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.exe
+C:\Lab\Lab3\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.pdb
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.exe
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.pdb
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\bin\Debug\FileInformation1.exe
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\bin\Debug\FileInformation1.pdb
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.Form1.resources
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.Properties.Resources.resources
+C:\Users\Nikola\Downloads\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.csproj.GenerateResource.Cache
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\FileInformation1riješen\FileInformation1\FileInformation1\obj\x86\Debug\FileInformation1.pdb

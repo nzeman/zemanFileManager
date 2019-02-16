@@ -1,0 +1,12 @@
+C:\Lab\Lab4\Copy\Copy\bin\Debug\Copy.exe.config
+C:\Lab\Lab4\Copy\Copy\bin\Debug\Copy.exe
+C:\Lab\Lab4\Copy\Copy\bin\Debug\Copy.pdb
+C:\Lab\Lab4\Copy\Copy\obj\Debug\Copy.csprojResolveAssemblyReference.cache
+C:\Lab\Lab4\Copy\Copy\obj\Debug\Copy.Form1.resources
+C:\Lab\Lab4\Copy\Copy\obj\Debug\Copy.Properties.Resources.resources
+C:\Lab\Lab4\Copy\Copy\obj\Debug\Copy.csproj.GenerateResource.Cache
+C:\Lab\Lab4\Copy\Copy\obj\Debug\Copy.exe
+C:\Lab\Lab4\Copy\Copy\obj\Debug\Copy.pdb
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\Copy\Copy\Copy\bin\Debug\Copy.exe.config
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\Copy\Copy\Copy\obj\Debug\Copy.exe
+C:\Users\Nikola\Documents\Visual Studio 2013\Projects\zemanFileManager\_internet-DL\Copy\Copy\Copy\obj\Debug\Copy.pdb
